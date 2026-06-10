@@ -11,13 +11,15 @@ project-name/
 ├── fusion/      # Fusion 360 source files (.f3d)
 ├── step/        # STEP exports for use in other CAD tools
 ├── bambu/       # Bambu Studio slicer projects (.3mf)
-└── reference/   # Reference files, datasheets, inspiration
+├── reference/   # Reference files, datasheets, inspiration
+└── archive/     # Older or superseded versions
 ```
 
 ## Projects
 
 | Project | Description |
 |---|---|
+| `ms-01-mount-2u` | 2U rack mount for Minisforum MS-01 (19" with fan & keystone), based on [maze's design on Printables](https://www.printables.com/model/1041864-minisforum-ms-01-2u-rack-mount-10-19-with-fan-keys) |
 | `ms01-1u-psu-mount-1ru` | 1U rack mount PSU holder for Minisforum MS-01, M3 heat inserts, based on [Mixmeister's 1U blanks](https://makerworld.com/en/models/1699781-19-inch-1u-rack-mount-blanks) |
 | `penn-elcom-rear-panel` | 19" 1U rack rear panel with M5 heat inserts, based on [Mauker's modular rack system](https://makerworld.com/en/models/770165-19-inch-modular-rack-mount-blanks) |
 
